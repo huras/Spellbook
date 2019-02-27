@@ -11,7 +11,7 @@
 
 <body>
 - Substantivos Abstratos (Palavras bolha)
-Liberdade
+<span style='color: rgb(40, 199, 0)'> Liberdade </span>
 Ritmo
 
 - Emoções boas
@@ -33,4 +33,8 @@ Sinestesia (n)
 Lugar (n)
 
 Pergunta > Emoção 1 > Sinestesia 1 > Emoção 2 > Sinestesia 2 > Lugar 1
+
+Interjeições respostas para encorajar o continuamento da fala
+"Lá vem..."
+"É mesmo?"
 </body>
